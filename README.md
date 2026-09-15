@@ -6,8 +6,10 @@ Adds:
 
 as sources for Rakuyomi on Koreader.
 
+
+
 Installation:
 
 1 - Download the .aix files in the repo.
 
-2 - Drop them in /koreader/rakuyomi/sources
+2 - Drop them in .../koreader/rakuyomi/sources
