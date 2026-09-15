@@ -1,0 +1,17 @@
+{
+  "name": "Development Source List",
+  "sources": [
+    {
+      "id": "multi.nhentai-yaoi",
+      "name": "nHentai Yaoi",
+      "version": 1,
+      "iconURL": "icons/multi.nhentai-yaoi-v1.png",
+      "downloadURL": "sources/multi.nhentai-yaoi-v1.aix",
+      "languages": [
+        "multi"
+      ],
+      "contentRating": 2,
+      "baseURL": "https://nhentaiyaoi.net"
+    }
+  ]
+}
